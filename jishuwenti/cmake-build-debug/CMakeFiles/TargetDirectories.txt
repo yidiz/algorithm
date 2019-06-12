@@ -1,3 +1,0 @@
-D:/project/CLionProjects/vijos/jishuwenti/cmake-build-debug/CMakeFiles/jishuwenti.dir
-D:/project/CLionProjects/vijos/jishuwenti/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/project/CLionProjects/vijos/jishuwenti/cmake-build-debug/CMakeFiles/rebuild_cache.dir
